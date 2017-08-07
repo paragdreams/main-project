@@ -1,0 +1,3 @@
+[submodule "test-multi-module"]
+	path = test-multi-module
+	url = https://github.com/paragdreams/test-multi-module
